@@ -1,3 +1,7 @@
+<img width="1913" height="1012" alt="project using johnny" src="https://github.com/user-attachments/assets/e2633afa-c669-43af-a097-316d1eae8c65" />
+<img width="1912" height="1011" alt="project1 using password cracker" src="https://github.com/user-attachments/assets/ae6fd626-1ff6-4b71-b8b9-1340de4f2e66" />
+<img width="1912" height="1011" alt="project1 using password cracker" src="https://github.com/user-attachments/assets/374c028f-6928-44bd-8945-702381941a5f" />
+<img width="1913" height="1012" alt="project using johnny" src="https://github.com/user-attachments/assets/ec01e8f1-8d27-43e0-86da-2677de40081b" />
 # week-3-Network_Walks-Aakash-B084B
 # Week 3 – Password Security Lab
 
